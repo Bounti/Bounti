@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-I am a security researcher, currently working at [Intel](https://www.intel.fr/content/www/fr/fr/homepage.html) since Sept 2022.
+I am a security researcher, working at [Intel](https://www.intel.fr/content/www/fr/fr/homepage.html) since Sept 2022.
 My research focuses on computer security, with a strong interest in embedded systems, and in particular low-level hardware/software security.
 Currently, I am working on automated security testing of hardware and software.
 
