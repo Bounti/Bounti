@@ -41,10 +41,10 @@ Currently, I am working on automated security testing of hardware and software.
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/IntelLabs/PreSiFuzz/translator">PreSiFuzz</a>
+            <a href="https://github.com/IntelLabs/PreSiFuzz/">PreSiFuzz</a>
         </td>
         <td>
-            <img src="https://img.shields.io/github/stars/PreSiFuzz/translator?style=social"/>
+            <img src="https://img.shields.io/github/stars/IntelLabs/PreSiFuzz"/>
         </td>
     </tr>
     <tr>
